@@ -15,7 +15,7 @@ $ docker run -u root -d -p 8080:8080 -p 50000:50000 -v jenkins-data:/var/jenkins
 以下のコマンドを実行して、初期パスワードを確認できる。
 
 ```
-$ docker log ＜コンテナID＞
+$ docker logs ＜コンテナID＞
 ```
 
 ```
