@@ -1,4 +1,6 @@
 # jenkins-maven-docker
+![Docker Image CI](https://github.com/lagoon-io/jenkins-maven-docker/workflows/Docker%20Image%20CI/badge.svg)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## イメージの作成とコンテナの起動
 
